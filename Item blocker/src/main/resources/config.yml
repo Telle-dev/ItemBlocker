@@ -1,0 +1,22 @@
+﻿
+blocked-items:
+  - BUNDLE
+  - BEDROCK
+  - COMMAND_BLOCK
+
+message: "This item is currently disabled and cannot be used!"
+log-removals: true
+
+scan-on:
+  join: true
+  world-change: true
+  inventory-close: true
+
+bypass-permission: "itemblocker.bypass"
+
+silent-remove: false
+
+allowed-worlds: []
+blocked-worlds: []
+
+allow-in-creative: false
