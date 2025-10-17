@@ -33,7 +33,7 @@ Prevents players from using, crafting, dropping, or picking up specific items. C
 
 ## Installation
 1. Download the latest JAR from:  
-   [ItemBlocker Releases](https://github.com/Tellegram/ItemBlocker/releases/latest/download/ItemBlocker.jar)  
+   [ItemBlocker Releases](https://github.com/Telle-dev/ItemBlocker/releases/tag/v1.0.0)  
 2. Move it to your `plugins/` folder.  
 3. Restart the server or use `/plugman load ItemBlocker`.  
 4. Adjust `plugins/ItemBlocker/config.yml` as needed.  
@@ -41,7 +41,7 @@ Prevents players from using, crafting, dropping, or picking up specific items. C
 
 ## Example Configuration
 ```bash
-wget https://github.com/Tellegram/ItemBlocker/releases/latest/download/ItemBlocker.jar -O plugins/ItemBlocker.jar
+wget https://github.com/Telle-dev/ItemBlocker/releases/tag/v1.0.0
 Example Configuration
 blocked-items:
   - BUNDLE
